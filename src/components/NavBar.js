@@ -12,7 +12,7 @@ function NavBar() {
   return (
     <nav>
       {linkItems}
-    {/* display an <a> tag for each link here */}
+    {/* display an <a> tag for each link here. done! */}
     </nav>
   );
   }
